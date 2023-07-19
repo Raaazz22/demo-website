@@ -1,0 +1,309 @@
+#outer{
+  height:1800px;
+  width:80%;
+  margin:0px auto;
+}
+body{
+	background-color:#3fc462;
+}
+.button:hover{
+	Font-size:20px;
+}
+
+.button2:hover{
+	background-color:black;
+}
+
+#menu{
+	height:50px;
+	width:100%;
+	background-color:white;
+	border-radius:20px 20px 0px 0px;
+}
+.button{
+	height:40px;
+	width:18%;
+	float:left;
+	margin-left:15px;
+	text-align:center;
+	padding-top:10px;
+	font-size:25px;
+}
+
+.button a{
+	text-decoration:none;
+	color:#929693;
+}
+
+
+#slider{
+	height:250px;
+	width:100%;
+	background-color:white;
+	margin-top:5px;
+	background-image:url("../images/sofa.png");
+	
+}
+#parent{
+	height:1050px;
+	width:100%;
+	margin-top:5px;
+	
+}
+
+#left{
+	height:1050px;
+	width:70%;
+	background-color:white;
+	float:left;
+	border-radius:0px 0px 0px 20px;
+
+}
+#home{
+	margin-left:5%;
+}
+
+#ladyimg{
+	height:250px;
+	width:100%;
+	background-image:url("../images/lady.png");
+	background-size:cover;
+}
+#home a{
+	color:#18cc2d;
+}
+#page{
+	float:right;
+	margin-right:50px;
+}
+
+#right{
+	height:1050px;
+	width:30%;
+	background-color:#b9c4ba;
+	float:right;
+	border-radius:0px 0px 20px 0px;
+}
+#rightcontent{
+	margin-left:40px;
+}
+#rightcontent p{
+	color:#515752;
+	margin-right:20px;
+}
+
+.button2{
+	height:40px;
+	width:100%;
+	font-size:20px;
+}
+
+.button2 a{
+	text-decoration:none;
+	color:#515752;
+}
+#footer{
+	height:270px;
+	width:100%;
+	background-color:white;
+	margin-top:20px;
+	border-radius:20px;
+	border:1px solid white;
+}
+
+.a{
+	height:240px;
+	width:30%;
+	margin-left:25px;
+	margin-top:15px;
+	float:left;
+	
+}
+.a h1{
+	margin-left:20px;
+}
+.a p{
+	margin-left:20px;
+}
+.a a{
+	color:#18cc2d;
+}
+
+#img1{
+	height:50px;
+	width:25%;
+	border:1px solid black;
+	display:inline-block;
+	margin-left:10px;
+	background-image:url("../images/img1.png");
+	background-size:cover;
+}
+#img2{
+	height:50px;
+	width:25%;
+	border:1px solid black;
+	display:inline-block;
+	margin-left:10px;
+	background-image:url("../images/2.png");
+	background-size:cover;
+}
+#img3{
+	height:50px;
+	width:25%;
+	border:1px solid black;
+	display:inline-block;
+	margin-left:10px;
+	background-image:url("../images/3.png");
+	background-size:cover;
+}
+#img4{
+	height:50px;
+	width:25%;
+	border:1px solid black;
+	display:inline-block;
+	margin-left:10px;
+	background-image:url("../images/4.png");
+	background-size:cover;
+}
+#img5{
+	height:50px;
+	width:25%;
+	border:1px solid black;
+	display:inline-block;
+	margin-left:10px;
+	margin-top:15px;
+	background-image:url("../images/5.png");
+	background-size:cover;
+}
+#img6{
+	height:50px;
+	width:25%;
+	border:1px solid black;
+	display:inline-block;
+	margin-left:10px;
+	background-image:url("../images/6.png");
+	background-size:cover;
+}
+#login{
+	margin-left:20px;
+	height:1000px;
+	width:95%;
+	background-color:#83c78b;
+	Font-size:40px;
+	border-radius:25px;
+	box-shadow:5px 5px 15px black;
+}
+
+#profile{
+	height:200px;
+	width:200px;
+	margin:5px auto;
+	background-image:url("../images/profile.png");
+	background-size:cover;
+}
+#login input{
+	height:50px;
+	width:90%;
+	margin-top:5px;
+	margin-left:35px;
+	Font-size:20px;
+	background-color:white;
+	color:black;
+	border-radius:25px;
+	
+}
+
+#submit input{
+	height:50px;
+	width:30%;
+	margin-left:90px;
+	margin-top:20px;
+	Font-size:20px;
+	background-color:black;
+	color:white;
+	float:left;
+	border-radius:25px;
+	
+	
+}
+#submit a{
+	Font-size:20px;
+	margin-top:8px;
+	margin-left:350px;
+	
+}
+#check input{
+    height:30px;
+	width:20%;
+	margin-top:10px;
+	margin-left:50px;
+	Font-size:5px;
+	background-color:white;
+	color:black;
+	
+}
+#already {
+	margin-top:5px;
+	text-align:center;
+	Font-size:20px;
+}
+#main{
+	height:500px;
+	width:500px;
+	background-color:lightgrey;
+	margin:70px auto;
+	box-shadow:5px 5px 15px black;
+	border-radius:25px;
+}
+#user{
+    height:150px;
+	width:150px;
+	background-image:url("../images/profile.png");
+	background-size:cover;
+	margin:20px auto;
+}
+#main input{
+	height:50px;
+	width:90%;
+	margin-left:25px;
+	margin-top:5px;
+	Font-size:15px;
+	background-color:black;
+	color:white;
+	border-radius:25px;
+}
+#user input:hover{
+	background-color:White;
+}
+
+#main2 input{
+	Font-size:20px;
+}
+#main3 {
+	Font-size:25px;
+	text-align:center;
+	margin-top:10px;
+	margin-left:5px;
+}
+
+#login h2{
+	margin-top:10px;
+	Font-size:60px;
+	text-align:center;
+}
+#query input{
+	height:100px;
+}
+#login h3{
+	Font-size:40px;
+	text-align:center;
+}
+
+#login p{
+	Font-size:20px;
+	margin-left:30px;
+}
+
+#main3 a{
+	margin-left:30px;
+}
